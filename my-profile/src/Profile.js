@@ -7,7 +7,7 @@ const Profile = () => {
   return (
     <div className="profile">
       <img src={profilePicture} alt="Profile" className="profile-picture" />
-      <h1>Phumin Tongla</h1>
+      <h1>Mr.Phumin Tongla</h1>
       <p>Software Engineer</p>
       <p>Student of Sripatum University</p>
       <p>StudentID 65003361</p>
